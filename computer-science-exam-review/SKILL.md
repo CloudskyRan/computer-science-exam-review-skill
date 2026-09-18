@@ -1,9 +1,9 @@
 ---
-name: computer-course-exam-review
+name: computer-science-exam-review
 description: Analyze user-provided past exams, review outlines, notes, and course materials for computer-science university courses; produce structured exam-focused reviews, study plans, practice questions, and answer explanations. Use when the user asks for final-exam preparation in operating systems, computer networks, computer organization, databases, programming, software engineering, AI, machine learning, or related courses.
 ---
 
-# Computer Course Exam Review
+# Computer Science Exam Review
 
 帮助学生使用自己提供的课程资料进行期末复习。资料只作为当前会话输入，不应被复制到公开仓库、提交到 Git、或用于推断个人身份。处理资料时优先保护隐私，个人信息不参与复习内容生成。
 

@@ -1,6 +1,6 @@
-# 计算机专业课期末复习 Skill
+# Computer Science Exam Review Skill
 
-一个面向计算机学院专业课期末复习的 Codex Skill。它可以根据你提供的往年真题、复习提纲、课堂笔记和重点标注，整理考点、制定复习计划、生成练习题，并给出带推理过程的答案解析。
+一个面向计算机科学专业课期末复习的 Codex Skill。它可以根据你提供的往年真题、复习提纲、课堂笔记和重点标注，整理考点、制定复习计划、生成练习题，并给出带推理过程的答案解析。
 
 ## 适用场景
 
@@ -16,7 +16,7 @@
 
 ## 使用方式
 
-将 `computer-course-exam-review` 目录作为 Skill 安装或加载，然后直接用中文描述任务，并提供可用资料。例如：
+将 `computer-science-exam-review` 目录作为 Skill 安装或加载，然后直接用中文描述任务，并提供可用资料。例如：
 
 ```text
 请根据我上传的《计算机网络》往年真题和老师划重点：
@@ -62,7 +62,7 @@ Skill 不会保证某道题一定出现，也不会自行编造题号、页码�
 .
 ├── README.md
 ├── .gitignore
-└── computer-course-exam-review/
+└── computer-science-exam-review/
     ├── SKILL.md
     ├── agents/
     │   └── openai.yaml
